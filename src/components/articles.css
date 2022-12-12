@@ -1,0 +1,36 @@
+.article{
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.article h1{
+    margin:3%;
+}
+
+.cards{
+    padding-left:5%;
+    padding-right:5%; 
+}
+
+.card{
+    padding:2%;
+    margin:2%;
+}
+.card1{
+    text-align: left;
+    background-color: rgb(213, 213, 255);
+}
+
+.card2{
+    text-align: right;
+    background-color: rgb(255, 235, 197);
+}
+
+.card3{
+    text-align: left;
+    background-color: rgb(200, 255, 200);
+}
+
+.card4{
+    text-align: right;
+    background-color: rgb(254, 217, 223);
+}
